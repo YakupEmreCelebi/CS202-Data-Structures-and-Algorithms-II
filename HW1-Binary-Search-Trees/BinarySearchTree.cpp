@@ -1,9 +1,6 @@
 /**
  * Title: Binary Search Trees
  * Author : Yakup Emre Celebi
- * ID: 22302267
- * Section : 2
- * Homework : 1
  * Description : Binary Search Tree with insert, retrieve, delete and height find logic
  */
 
